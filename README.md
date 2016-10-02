@@ -4,7 +4,7 @@ We will use this repository during class to collaborate on our class project.
 
 ### Class Manual
 
-[GitHub for Developers Student Manual](manual/github-for-developers-student-manual.pdf)
+[GitHub for Developers Student Manual](github-for-developers-student-manual.pdf)
 
 ### Additional Resources
 
