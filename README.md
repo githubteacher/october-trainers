@@ -1,4 +1,4 @@
-# Welcome Trainers
+# Welcome Trainers, be aware of any C# code
 
 We will use this repository during class to collaborate on our class project.
 
