@@ -5,4 +5,9 @@
 - Go swimming in the sea at Blåbärsudden or in lake Skogssjön
 - Pick blueberries
 ### Autumn
+- Pick mushrooms (remember to avoid the poisonous ones!)
 ### Winter
+- Go iceskating on lake Axaren or lake Getaren
+- Go cross-country skiing around lake Getaren
+### All year round
+- Have lunch or fika at Café Rosenhill
