@@ -3,3 +3,5 @@
 Nyköping
 ### Employment
 Scania
+### Current assignment
+GitHub student
