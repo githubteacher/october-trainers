@@ -1,4 +1,3 @@
-test
 ## You can eat at STC
 The food is mediocre
 ## Go there
