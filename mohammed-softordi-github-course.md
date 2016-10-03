@@ -1,6 +1,6 @@
 test
-## Do not eat at STC
-The food is not good
+## You can eat at STC
+The food is mediocre
 ## Go there
 ## An other thing to do is just do it
 
