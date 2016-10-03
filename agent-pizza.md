@@ -1,6 +1,6 @@
 Welcome to the pizzashop
 
-In the future we may also have Pölsa
+Now we also have Pölsa
  - Pölsa
  - Pizza
 
@@ -10,4 +10,4 @@ Futureproof pölsadishes
 - Deep fried pölsa
 - Pölsa on the rocks
 - Pölsa surf & turf
-- Pölsa ala italiano
+- Pölsa ala italiano	
