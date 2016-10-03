@@ -7,4 +7,4 @@
 - Go fishing in kalkbrottet :)
 - Take a trip to Trosa
 
-- Man kan cykla också om man orkar.
+- Threre is a possibility to bike also if you are into that.
