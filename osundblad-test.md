@@ -1,4 +1,9 @@
 # UPPERCASE
 
- - [ ] HAMBURGER @ LOFFES
+ - [x] HAMBURGER @ LOFFES
 
+## Fun things to do
+
+ - [ ] code Java
+ - [ ] !code c#
+ 
