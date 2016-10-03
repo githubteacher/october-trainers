@@ -1,4 +1,4 @@
-# Welcome Trainers, beware of any C# code
+# Welcome Trainers, beware of any C# code :angel:
 
 We will use this repository during class to collaborate on our class project.
 
