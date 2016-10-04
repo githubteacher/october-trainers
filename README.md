@@ -12,4 +12,10 @@ Here are a few of our favorite resources you may want to check out: [Extended Re
 
 ### Adding files to practice repo
 
+#### Bash
+
 `for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done`
+
+#### Powershell
+
+`for ($d=1; $d -le 6;$d++) { touch file$d.md; git add file$d.md; git commit -m "adding file$d.md";}`
