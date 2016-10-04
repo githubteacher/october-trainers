@@ -6,3 +6,5 @@
 
 - Go fishing in kalkbrottet :)
 - Take a trip to Trosa
+
+- Threre is a possibility to bike also if you are into that.

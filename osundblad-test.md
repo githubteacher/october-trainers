@@ -1,6 +1,6 @@
 # UPPERCASE
 
- - [x] HAMBURGER @ LOFFES
+ - [x] HAMBURGER
 
 ## Fun things to do
 
